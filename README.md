@@ -100,7 +100,7 @@
 
 
   <footer role="contentinfo">
-    <div class="container"><small>&copy; 2025 学園祭実行委員会</small></div>
+    <div class="container"><small>&copy;A314</small></div>
   </footer>
 </body>
 </html>
